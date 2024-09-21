@@ -1,5 +1,7 @@
 BMW Sales Analysis Dashboard
 
+Link to Report: https://app.powerbi.com/view?r=eyJrIjoiMTljYWI4ZjktZmVjZS00MmY4LWJjMzMtMzQwZWUxYzk5NGI4IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
+
 Welcome to the BMW Sales Analysis Dashboard! This dashboard provides a comprehensive overview of BMW's sales performance, highlighting key insights and trends.
 
 Key Insights
