@@ -45,9 +45,9 @@ Revenue and Revenue Previous Years (PY) and Percentage Change
 - ⚖️ Balanced Market Presence: Regions like South America, North America, and Asia show similar performance, indicating potential for focused regional strategies.
 
 8. Sales by Month
-- 📅 Peak Months: March and August, suggesting seasonal patterns possibly related to product launches, marketing campaigns, or consumer behavior.
+- 📅 Peak Months: March, May, and September suggesting seasonal patterns possibly related to product launches, marketing campaigns, or consumer behavior.
 
 9. Sales by Weekday
 - 📈 Highest Revenue Days: Monday and Thursday, possibly due to strategic promotional efforts or consumer trends.
-- 📉 Lowest Revenue Day: Sunday, indicating it might be a quieter sales day.
+  
 
