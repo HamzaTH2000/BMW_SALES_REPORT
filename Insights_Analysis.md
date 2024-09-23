@@ -90,6 +90,12 @@
 - **Promote Lower-Selling Models**: Enhance visibility and appeal for **low-selling models** like the BMW M8, X3, and M5 through marketing efforts, price adjustments, or model enhancements.
 - **Leverage High-Performing Models**: Promote the **BMW Z4 and 8 Series**, which have strong sales, by offering premium editions or limited-time offers to maintain momentum.
 
-  
-_____________________________________________________________________________________
 
+
+________________________________________
+
+NAME : Hamza Thamlaoui
+
+Email : hamzathamleoui@gmail.com
+
+Linkedin : www.linkedin.com/in/hamza-thamlaoui-51220a264
